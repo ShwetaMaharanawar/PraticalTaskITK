@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerEnvironment>ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Shweta Maharanawar\AppData\Roaming
+CATALINA_HOME=C:\apache-tomcat-9.0.95
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=DESKTOP-MPC23NA
+ComSpec=C:\WINDOWS\system32\cmd.exe
+DriverData=C:\Windows\System32\Drivers\DriverData
+EFC_8900=1
+FMS_HOME=C:\Siemens\Teamcenter12\TCROOT\tccs
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+HOMEDRIVE=C:
+HOMEPATH=\Users\Shweta Maharanawar
+JAVA_HOME=C:\Program Files\Java\jdk-1.8
+JRE_HOME=C:\Program Files\Java\jre-1.8
+LOCALAPPDATA=C:\Users\Shweta Maharanawar\AppData\Local
+LOGONSERVER=\\DESKTOP-MPC23NA
+NUMBER_OF_PROCESSORS=12
+OneDrive=C:\Users\Shweta Maharanawar\OneDrive - Four Colors Technology
+OneDriveCommercial=C:\Users\Shweta Maharanawar\OneDrive - Four Colors Technology
+OS=Windows_NT
+Path=C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Shweta Maharanawar\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\Shweta Maharanawar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Shweta Maharanawar\.dotnet\tools;
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=9a04
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SPLM_LICENSE_SERVER=28000@portal4colors.eastus.cloudapp.azure.com
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\SHWETA~1\AppData\Local\Temp
+TMP=C:\Users\SHWETA~1\AppData\Local\Temp
+USERDOMAIN=DESKTOP-MPC23NA
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-MPC23NA
+USERNAME=Shweta Maharanawar
+USERPROFILE=C:\Users\Shweta Maharanawar
+VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+windir=C:\WINDOWS
+ZES_ENABLE_SYSMAN=1
+$(LocalDebuggerEnvironment)</LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+</Project>
